@@ -13,6 +13,12 @@
         width: 100%;
         padding: 10px;
     }
+    .steps, .why-us {
+        margin: 0;
+    }
+    .why-us {
+        background-color: rgb(58, 56, 56);
+    }
 
 }
 
